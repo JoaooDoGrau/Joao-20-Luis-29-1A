@@ -1,0 +1,53 @@
+body {
+	
+}
+
+#banner {
+	width:100%;
+}
+
+#beneficios{
+	width:50%;
+}
+
+#origem {
+	width:50%;
+}
+
+#regras {
+	width:50%;
+}
+
+#funções {
+	width:50%;
+}
+
+.principal{
+	background: #CCCCCC;
+	padding: 10px;
+}
+
+.secundaria{
+	background: #e5e5e5;
+	padding: 5px;
+}
+
+
+
+p  {
+	text-align: center;
+}
+
+h1 {
+	text-align: center;
+}
+h2 {
+	text-align: center;
+}
+h3 {
+	text-align: center;
+}
+h4 {
+	text-align: center;
+
+}
